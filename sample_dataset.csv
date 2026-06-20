@@ -1,0 +1,51 @@
+user_id,product_id,product_name,category,description,rating
+U001,P001,Wireless Bluetooth Headphones,Electronics,Premium wireless headphones with noise cancellation active bass boost and 30 hour battery life,4.5
+U001,P002,Running Shoes Nike Air Max,Footwear,Lightweight running shoes with air cushion sole breathable mesh upper and superior grip,4.2
+U001,P003,Python Programming Book,Books,Comprehensive guide to Python programming covering data science machine learning and web development,5.0
+U001,P007,Laptop Stand Adjustable,Electronics,Ergonomic aluminum laptop stand adjustable height for better posture and cooling,4.0
+U002,P001,Wireless Bluetooth Headphones,Electronics,Premium wireless headphones with noise cancellation active bass boost and 30 hour battery life,3.8
+U002,P004,Yoga Mat Premium,Sports,Non-slip premium yoga mat with alignment lines extra thick cushioning and carrying strap,4.7
+U002,P005,Coffee Maker Drip,Kitchen,Programmable drip coffee maker with thermal carafe 12 cup capacity and auto shutoff,4.1
+U002,P006,Data Science Handbook,Books,Complete data science handbook covering statistics machine learning Python R and real world projects,4.9
+U003,P002,Running Shoes Nike Air Max,Footwear,Lightweight running shoes with air cushion sole breathable mesh upper and superior grip,4.6
+U003,P004,Yoga Mat Premium,Sports,Non-slip premium yoga mat with alignment lines extra thick cushioning and carrying strap,4.3
+U003,P008,Smart Watch Fitness Tracker,Electronics,Smart watch with heart rate monitor GPS step counter sleep tracking and 7 day battery,4.4
+U003,P009,Resistance Bands Set,Sports,Set of 5 resistance bands with different tensions for strength training stretching and physical therapy,4.0
+U004,P003,Python Programming Book,Books,Comprehensive guide to Python programming covering data science machine learning and web development,4.8
+U004,P006,Data Science Handbook,Books,Complete data science handbook covering statistics machine learning Python R and real world projects,5.0
+U004,P010,Mechanical Keyboard RGB,Electronics,Tactile mechanical keyboard with RGB backlight programmable keys anti-ghosting and USB-C,4.3
+U004,P011,Monitor 27 inch 4K,Electronics,27 inch 4K UHD monitor with IPS panel 144Hz refresh rate HDR support and HDMI DisplayPort,4.6
+U005,P005,Coffee Maker Drip,Kitchen,Programmable drip coffee maker with thermal carafe 12 cup capacity and auto shutoff,3.9
+U005,P012,Blender High Speed,Kitchen,High speed blender with 1200W motor stainless steel blades 64oz jar and multiple speed settings,4.2
+U005,P013,Instant Pot Duo,Kitchen,7 in 1 electric pressure cooker slow cooker rice cooker steamer and warmer with 6 quart capacity,4.8
+U005,P008,Smart Watch Fitness Tracker,Electronics,Smart watch with heart rate monitor GPS step counter sleep tracking and 7 day battery,4.1
+U006,P001,Wireless Bluetooth Headphones,Electronics,Premium wireless headphones with noise cancellation active bass boost and 30 hour battery life,5.0
+U006,P010,Mechanical Keyboard RGB,Electronics,Tactile mechanical keyboard with RGB backlight programmable keys anti-ghosting and USB-C,4.7
+U006,P011,Monitor 27 inch 4K,Electronics,27 inch 4K UHD monitor with IPS panel 144Hz refresh rate HDR support and HDMI DisplayPort,4.9
+U006,P014,Webcam 1080p HD,Electronics,1080p HD webcam with built-in microphone autofocus wide angle lens and plug and play USB,4.2
+U007,P002,Running Shoes Nike Air Max,Footwear,Lightweight running shoes with air cushion sole breathable mesh upper and superior grip,4.5
+U007,P009,Resistance Bands Set,Sports,Set of 5 resistance bands with different tensions for strength training stretching and physical therapy,4.6
+U007,P015,Protein Powder Whey,Sports,Premium whey protein powder 25g protein per serving chocolate flavor with BCAAs and glutamine,4.3
+U007,P004,Yoga Mat Premium,Sports,Non-slip premium yoga mat with alignment lines extra thick cushioning and carrying strap,4.1
+U008,P012,Blender High Speed,Kitchen,High speed blender with 1200W motor stainless steel blades 64oz jar and multiple speed settings,4.0
+U008,P013,Instant Pot Duo,Kitchen,7 in 1 electric pressure cooker slow cooker rice cooker steamer and warmer with 6 quart capacity,4.5
+U008,P016,Air Fryer XL,Kitchen,Digital air fryer with 5.8 quart capacity 8 cooking presets dishwasher safe basket and touch display,4.7
+U008,P005,Coffee Maker Drip,Kitchen,Programmable drip coffee maker with thermal carafe 12 cup capacity and auto shutoff,4.4
+U009,P003,Python Programming Book,Books,Comprehensive guide to Python programming covering data science machine learning and web development,4.7
+U009,P006,Data Science Handbook,Books,Complete data science handbook covering statistics machine learning Python R and real world projects,4.8
+U009,P017,Machine Learning Book,Books,Hands on machine learning with scikit learn keras tensorflow deep learning neural networks,5.0
+U009,P018,Algorithms Book,Books,Introduction to algorithms comprehensive coverage of sorting searching graph algorithms and complexity,4.6
+U010,P008,Smart Watch Fitness Tracker,Electronics,Smart watch with heart rate monitor GPS step counter sleep tracking and 7 day battery,4.2
+U010,P015,Protein Powder Whey,Sports,Premium whey protein powder 25g protein per serving chocolate flavor with BCAAs and glutamine,4.4
+U010,P019,Running Shorts,Footwear,Lightweight moisture wicking running shorts with built-in liner zip pocket and reflective strips,4.0
+U010,P020,Sports Water Bottle,Sports,Insulated stainless steel water bottle 32oz BPA free keeps drinks cold 24 hours hot 12 hours,4.5
+U001,P017,Machine Learning Book,Books,Hands on machine learning with scikit learn keras tensorflow deep learning neural networks,4.6
+U002,P016,Air Fryer XL,Kitchen,Digital air fryer with 5.8 quart capacity 8 cooking presets dishwasher safe basket and touch display,4.3
+U003,P017,Machine Learning Book,Books,Hands on machine learning with scikit learn keras tensorflow deep learning neural networks,4.5
+U004,P007,Laptop Stand Adjustable,Electronics,Ergonomic aluminum laptop stand adjustable height for better posture and cooling,4.2
+U005,P018,Algorithms Book,Books,Introduction to algorithms comprehensive coverage of sorting searching graph algorithms and complexity,4.0
+U006,P015,Protein Powder Whey,Sports,Premium whey protein powder 25g protein per serving chocolate flavor with BCAAs and glutamine,3.8
+U007,P018,Algorithms Book,Books,Introduction to algorithms comprehensive coverage of sorting searching graph algorithms and complexity,4.4
+U008,P019,Running Shorts,Footwear,Lightweight moisture wicking running shorts with built-in liner zip pocket and reflective strips,3.9
+U009,P020,Sports Water Bottle,Sports,Insulated stainless steel water bottle 32oz BPA free keeps drinks cold 24 hours hot 12 hours,4.3
+U010,P001,Wireless Bluetooth Headphones,Electronics,Premium wireless headphones with noise cancellation active bass boost and 30 hour battery life,4.0
