@@ -6,10 +6,12 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     gcc g++ && \
     rm -rf /var/lib/apt/lists/*
 
-RUN pip install --upgrade pip
+RUN pip install --upgrade pip setuptools wheel
+
+RUN pip install numpy==1.26.4
 
 COPY requirements.txt .
-RUN pip install --no-cache-dir --use-pep517 -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
