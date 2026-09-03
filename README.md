@@ -2,6 +2,10 @@
 
 A production-ready **Hybrid Recommendation System** that combines Content-Based Filtering and Collaborative Filtering to deliver personalized product recommendations — served via a REST API and deployed live on Render.
 
+**Live Demo:** https://e-commerce-recommendation-engine.onrender.com
+
+> Free tier spins down after inactivity — first request may take ~50 seconds.
+
 ---
 
 ## Why I Built This
